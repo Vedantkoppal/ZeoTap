@@ -1,0 +1,7 @@
+# Ignore specific CSV files
+Products.csv
+Transctions.csv
+Customers.csv
+# Ignore the entire checkpoints folder
+checkpoints/
+
