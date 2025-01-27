@@ -1,7 +1,8 @@
 # Ignore specific CSV files
 Products.csv
-Transctions.csv
+Transactions.csv
 Customers.csv
+VedantKoppal_EDA
 # Ignore the entire checkpoints folder
 checkpoints/
 
